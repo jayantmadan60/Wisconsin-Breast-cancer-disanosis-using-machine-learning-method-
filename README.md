@@ -1,4 +1,4 @@
-# Wisconsin-Breast-cancer-disanosis-using-machine-learning
+# Wisconsin-Breast-cancer-disagnosis-using-machine-learning
 
 UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
